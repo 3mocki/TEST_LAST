@@ -19,4 +19,4 @@ if __name__=="__main__":
     last = time.time()
     gap = last - first
     print("It took " + str(gap) + " sec")
-print("Result : {sum(result)}")
+    print("Result : {sum(result)}")
